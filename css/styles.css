@@ -1,0 +1,129 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.first-container{
+    position: relative;
+    background-color: rgb(215, 235, 247);
+}
+
+.first-container h1{
+    font-family: 'Parisienne', cursive;
+    margin-top: 0px;
+    padding-top: 116px;
+    font-size: 2.5rem;
+    color: #58c7c7;
+    margin-bottom: 10px;
+    /* line-height: 1; */
+}
+
+.first-container p{
+    color: #58c7c7;
+    font-weight: bold;
+}
+
+.top-cloud-img{
+    position: absolute;
+    top: 29px;
+    right: 341px;
+}
+
+.bottom-cloud-img{
+    position: absolute;
+    left: 334px;
+    top: 215px;
+}
+h2{
+    color: rgb(122, 196, 238);
+}
+
+h3{
+    color: rgb(122, 196, 238);
+}
+
+hr{
+    
+    border: dotted;
+    border-bottom: none;
+    width: 10%;
+    margin: 100px auto;
+    border-color: rgb(207, 242, 243);
+}
+
+.second-conatainer{
+    margin-top: 100px;
+}
+
+.profile{
+    width: 50%;
+    margin: 30px auto;
+}
+
+
+
+.skills-row{
+    width: 60%;
+    margin: 50px auto;
+    text-align: left;
+    
+
+}
+
+.web-img{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.stock-img{
+    width: 25%;
+    display: flex;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+
+.skills-row p{
+    line-height: 1.3;
+}
+
+.btn{
+    background-color: rgb(122, 196, 238);
+    padding: 15px;
+    border-radius: 9px;
+    text-decoration: none;
+    color: white;
+}
+
+.btn:hover{
+    background-color: #5db3e6;
+}
+
+.contact p{
+    margin-bottom: 30px;
+}
+
+.second-conatainer{
+    margin-bottom: 100px;
+}
+
+.third-container{   
+    background-color: rgb(215, 235, 247);
+    padding: 30px;
+}
+
+.third-container a{  
+    padding: 20px; 
+    text-decoration: none;
+    color: #5db3e6;
+}
+
+.third-container a:hover{
+    color: black;
+} 
+
+.third-container p{
+    padding-top: 20px;  
+}
